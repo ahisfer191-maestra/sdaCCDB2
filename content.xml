@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260510175732MED4Y4</value>
+    <value>202605111404456RR6DZ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260510175732N3G7AV</value>
+    <value>20260511140445BACPML</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778427693234</value>
+    <value>1778501071351</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mozxxifx-xae1p8tqj</odePageId>
+  <odePageId>page-mp15m9cx-a3a7gdw0d</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>INTRODUCCIÓN</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxifx-xae1p8tqj</odePageId>
+      <odePageId>page-mp15m9cx-a3a7gdw0d</odePageId>
       <odeBlockId>block-mou9sxgv-z97cr57r3</odeBlockId>
       <blockName></blockName>
       <iconName>info</iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxifx-xae1p8tqj</odePageId>
+          <odePageId>page-mp15m9cx-a3a7gdw0d</odePageId>
           <odeBlockId>block-mou9sxgv-z97cr57r3</odeBlockId>
           <odeIdeviceId>idevice-mou9sxgv-qr9hvn745</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -185,7 +185,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mozxxifx-xae1p8tqj</odePageId>
+      <odePageId>page-mp15m9cx-a3a7gdw0d</odePageId>
       <odeBlockId>block-mou9sxgv-d5nc4lrr0</odeBlockId>
       <blockName>De qué trata esto</blockName>
       <iconName>roadmap</iconName>
@@ -214,7 +214,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxifx-xae1p8tqj</odePageId>
+          <odePageId>page-mp15m9cx-a3a7gdw0d</odePageId>
           <odeBlockId>block-mou9sxgv-d5nc4lrr0</odeBlockId>
           <odeIdeviceId>idevice-mou9sxgv-fvi381xi4</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -251,7 +251,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxify-kgmcv30eq</odePageId>
+  <odePageId>page-mp15m9cy-osmuon5su</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>SESIONES</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -287,7 +287,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxify-kgmcv30eq</odePageId>
+      <odePageId>page-mp15m9cy-osmuon5su</odePageId>
       <odeBlockId>block-mou9sxgv-czmw0xv70</odeBlockId>
       <blockName>Contexto y objetivos de la tarea</blockName>
       <iconName>objectives</iconName>
@@ -316,7 +316,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxify-kgmcv30eq</odePageId>
+          <odePageId>page-mp15m9cy-osmuon5su</odePageId>
           <odeBlockId>block-mou9sxgv-czmw0xv70</odeBlockId>
           <odeIdeviceId>idevice-mou9sxgv-0f287fsir</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -343,7 +343,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mozxxify-kgmcv30eq</odePageId>
+      <odePageId>page-mp15m9cy-osmuon5su</odePageId>
       <odeBlockId>block-mou9sxgv-rqgzvap86</odeBlockId>
       <blockName>Descripción de la tarea</blockName>
       <iconName>present</iconName>
@@ -372,7 +372,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxify-kgmcv30eq</odePageId>
+          <odePageId>page-mp15m9cy-osmuon5su</odePageId>
           <odeBlockId>block-mou9sxgv-rqgzvap86</odeBlockId>
           <odeIdeviceId>idevice-mou9sxgv-1zarcqjuw</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -409,8 +409,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxify-jrpyxppz2</odePageId>
-  <odeParentPageId>page-mozxxify-kgmcv30eq</odeParentPageId>
+  <odePageId>page-mp15m9cz-104pjfn85</odePageId>
+  <odeParentPageId>page-mp15m9cy-osmuon5su</odeParentPageId>
   <pageName>SESIÓN 1: Mis Derechos Digitales</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -445,7 +445,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxify-jrpyxppz2</odePageId>
+      <odePageId>page-mp15m9cz-104pjfn85</odePageId>
       <odeBlockId>block-1778169798892-znziyn3nk</odeBlockId>
       <blockName>Punto de partida</blockName>
       <iconName>roadmap</iconName>
@@ -474,7 +474,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxify-jrpyxppz2</odePageId>
+          <odePageId>page-mp15m9cz-104pjfn85</odePageId>
           <odeBlockId>block-1778169798892-znziyn3nk</odeBlockId>
           <odeIdeviceId>idevice-1778169798890-3qim5ct0h</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -508,7 +508,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mozxxify-jrpyxppz2</odePageId>
+      <odePageId>page-mp15m9cz-104pjfn85</odePageId>
       <odeBlockId>block-1778258247243-baqrb5x5i</odeBlockId>
       <blockName>Contenido DUA</blockName>
       <iconName>info</iconName>
@@ -537,7 +537,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxify-jrpyxppz2</odePageId>
+          <odePageId>page-mp15m9cz-104pjfn85</odePageId>
           <odeBlockId>block-1778258247243-baqrb5x5i</odeBlockId>
           <odeIdeviceId>idevice-1778258247242-ee4jvfkp8</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -566,8 +566,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxifz-k9ry1s5ja</odePageId>
-  <odeParentPageId>page-mozxxify-jrpyxppz2</odeParentPageId>
+  <odePageId>page-mp15m9cz-1ga52ha9a</odePageId>
+  <odeParentPageId>page-mp15m9cz-104pjfn85</odeParentPageId>
   <pageName>Actividad 1</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -602,7 +602,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxifz-k9ry1s5ja</odePageId>
+      <odePageId>page-mp15m9cz-1ga52ha9a</odePageId>
       <odeBlockId>block-1778179666875-xbp90b0t9</odeBlockId>
       <blockName>MIS DERECHOS DIGITALES</blockName>
       <iconName>ask</iconName>
@@ -631,7 +631,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxifz-k9ry1s5ja</odePageId>
+          <odePageId>page-mp15m9cz-1ga52ha9a</odePageId>
           <odeBlockId>block-1778179666875-xbp90b0t9</odeBlockId>
           <odeIdeviceId>idevice-1778179666873-b0x5t3bjv</odeIdeviceId>
           <odeIdeviceTypeName>quick-questions-multiple-choice</odeIdeviceTypeName>
@@ -658,8 +658,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxifz-gghwk17so</odePageId>
-  <odeParentPageId>page-mozxxify-kgmcv30eq</odeParentPageId>
+  <odePageId>page-mp15m9cz-fjvtvbfxb</odePageId>
+  <odeParentPageId>page-mp15m9cy-osmuon5su</odeParentPageId>
   <pageName>SESIÓN 2:Aprende la teoría: figuras, compás y clave de sol</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -694,7 +694,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxifz-gghwk17so</odePageId>
+      <odePageId>page-mp15m9cz-fjvtvbfxb</odePageId>
       <odeBlockId>block-1778179955288-lxsfw3u33</odeBlockId>
       <blockName>La música tiene su propio idioma</blockName>
       <iconName>collaborative</iconName>
@@ -723,7 +723,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxifz-gghwk17so</odePageId>
+          <odePageId>page-mp15m9cz-fjvtvbfxb</odePageId>
           <odeBlockId>block-1778179955288-lxsfw3u33</odeBlockId>
           <odeIdeviceId>idevice-1778179955287-23e5i9fbu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -764,8 +764,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxifz-ejo9japrd</odePageId>
-  <odeParentPageId>page-mozxxifz-gghwk17so</odeParentPageId>
+  <odePageId>page-mp15m9d0-0ku9jdn62</odePageId>
+  <odeParentPageId>page-mp15m9cz-fjvtvbfxb</odeParentPageId>
   <pageName>Actividad 1</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -800,7 +800,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxifz-ejo9japrd</odePageId>
+      <odePageId>page-mp15m9d0-0ku9jdn62</odePageId>
       <odeBlockId>block-1778229499070-2a2n67kh1</odeBlockId>
       <blockName>Practica con Educaplay</blockName>
       <iconName>music</iconName>
@@ -829,7 +829,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxifz-ejo9japrd</odePageId>
+          <odePageId>page-mp15m9d0-0ku9jdn62</odePageId>
           <odeBlockId>block-1778229499070-2a2n67kh1</odeBlockId>
           <odeIdeviceId>idevice-1778229499069-6pfiouu0u</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -856,8 +856,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxifz-9nznzd2ur</odePageId>
-  <odeParentPageId>page-mozxxifz-gghwk17so</odeParentPageId>
+  <odePageId>page-mp15m9d0-jvu05ro60</odePageId>
+  <odeParentPageId>page-mp15m9cz-fjvtvbfxb</odeParentPageId>
   <pageName>Actividad 2</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -892,7 +892,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxifz-9nznzd2ur</odePageId>
+      <odePageId>page-mp15m9d0-jvu05ro60</odePageId>
       <odeBlockId>block-1778229612902-u7giby2ds</odeBlockId>
       <blockName>Practica con Edpuzzle</blockName>
       <iconName>music</iconName>
@@ -921,7 +921,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxifz-9nznzd2ur</odePageId>
+          <odePageId>page-mp15m9d0-jvu05ro60</odePageId>
           <odeBlockId>block-1778229612902-u7giby2ds</odeBlockId>
           <odeIdeviceId>idevice-1778229612901-zywqmhhat</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -948,8 +948,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig0-5qcds345o</odePageId>
-  <odeParentPageId>page-mozxxifz-gghwk17so</odeParentPageId>
+  <odePageId>page-mp15m9d0-tg5bekjtj</odePageId>
+  <odeParentPageId>page-mp15m9cz-fjvtvbfxb</odeParentPageId>
   <pageName>Actividad 3</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -992,7 +992,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig0-5qcds345o</odePageId>
+      <odePageId>page-mp15m9d0-tg5bekjtj</odePageId>
       <odeBlockId>block-1778240693279-g5g2fc97u</odeBlockId>
       <blockName>Puzle</blockName>
       <iconName>pieces</iconName>
@@ -1021,7 +1021,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig0-5qcds345o</odePageId>
+          <odePageId>page-mp15m9d0-tg5bekjtj</odePageId>
           <odeBlockId>block-1778240693279-g5g2fc97u</odeBlockId>
           <odeIdeviceId>idevice-1778240693277-8aq0xa7sd</odeIdeviceId>
           <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
@@ -1048,8 +1048,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig0-5gzxo46fw</odePageId>
-  <odeParentPageId>page-mozxxify-kgmcv30eq</odeParentPageId>
+  <odePageId>page-mp15m9d1-dh0wjx71q</odePageId>
+  <odeParentPageId>page-mp15m9cy-osmuon5su</odeParentPageId>
   <pageName>SESIÓN 3:Practica ritmos con actividades interactivas</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1084,7 +1084,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig0-5gzxo46fw</odePageId>
+      <odePageId>page-mp15m9d1-dh0wjx71q</odePageId>
       <odeBlockId>block-1778250804179-eluskdyqa</odeBlockId>
       <blockName>Texto</blockName>
       <iconName>competencies</iconName>
@@ -1113,7 +1113,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig0-5gzxo46fw</odePageId>
+          <odePageId>page-mp15m9d1-dh0wjx71q</odePageId>
           <odeBlockId>block-1778250804179-eluskdyqa</odeBlockId>
           <odeIdeviceId>idevice-1778250804177-5q970akqs</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1144,8 +1144,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig0-yg60zjflg</odePageId>
-  <odeParentPageId>page-mozxxig0-5gzxo46fw</odeParentPageId>
+  <odePageId>page-mp15m9d1-yrnkuimrj</odePageId>
+  <odeParentPageId>page-mp15m9d1-dh0wjx71q</odeParentPageId>
   <pageName>Actividad 1</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1180,7 +1180,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig0-yg60zjflg</odePageId>
+      <odePageId>page-mp15m9d1-yrnkuimrj</odePageId>
       <odeBlockId>block-1778250928595-7kughqlw9</odeBlockId>
       <blockName>Practicamos ritmos</blockName>
       <iconName>listen</iconName>
@@ -1209,7 +1209,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig0-yg60zjflg</odePageId>
+          <odePageId>page-mp15m9d1-yrnkuimrj</odePageId>
           <odeBlockId>block-1778250928595-7kughqlw9</odeBlockId>
           <odeIdeviceId>idevice-1778250928593-6fu30ebe7</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -1236,8 +1236,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig0-qm07yjd1g</odePageId>
-  <odeParentPageId>page-mozxxig0-5gzxo46fw</odeParentPageId>
+  <odePageId>page-mp15m9d1-52ucr8rlc</odePageId>
+  <odeParentPageId>page-mp15m9d1-dh0wjx71q</odeParentPageId>
   <pageName>Actividad 2</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1272,7 +1272,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig0-qm07yjd1g</odePageId>
+      <odePageId>page-mp15m9d1-52ucr8rlc</odePageId>
       <odeBlockId>block-1778250993659-u6i93k2cq</odeBlockId>
       <blockName>Entrenamiento rítmico. ¡A jugar!</blockName>
       <iconName>music</iconName>
@@ -1301,7 +1301,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig0-qm07yjd1g</odePageId>
+          <odePageId>page-mp15m9d1-52ucr8rlc</odePageId>
           <odeBlockId>block-1778250993659-u6i93k2cq</odeBlockId>
           <odeIdeviceId>idevice-1778250993658-7c7gi20rt</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -1328,8 +1328,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig0-k6062fp4f</odePageId>
-  <odeParentPageId>page-mozxxig0-5gzxo46fw</odeParentPageId>
+  <odePageId>page-mp15m9d2-1gaa004xl</odePageId>
+  <odeParentPageId>page-mp15m9d1-dh0wjx71q</odeParentPageId>
   <pageName>Actividad. 3</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1364,7 +1364,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig0-k6062fp4f</odePageId>
+      <odePageId>page-mp15m9d2-1gaa004xl</odePageId>
       <odeBlockId>block-1778251070625-3sj8i1rnq</odeBlockId>
       <blockName>Te toca crear</blockName>
       <iconName>think_alt</iconName>
@@ -1393,7 +1393,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig0-k6062fp4f</odePageId>
+          <odePageId>page-mp15m9d2-1gaa004xl</odePageId>
           <odeBlockId>block-1778251070625-3sj8i1rnq</odeBlockId>
           <odeIdeviceId>idevice-1778251070623-r6xoybh3q</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1428,8 +1428,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig1-v8roq0e2w</odePageId>
-  <odeParentPageId>page-mozxxify-kgmcv30eq</odeParentPageId>
+  <odePageId>page-mp15m9d2-7v7z5jb65</odePageId>
+  <odeParentPageId>page-mp15m9cy-osmuon5su</odeParentPageId>
   <pageName>SESIÓN 4:Aprende a grabar y editar vídeo con CapCut</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1464,7 +1464,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig1-v8roq0e2w</odePageId>
+      <odePageId>page-mp15m9d2-7v7z5jb65</odePageId>
       <odeBlockId>block-1778251234970-gro486imu</odeBlockId>
       <blockName>Grabamos y editamos con CapCut¡Tu percusión corporal en vídeo!</blockName>
       <iconName>gallery</iconName>
@@ -1493,7 +1493,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig1-v8roq0e2w</odePageId>
+          <odePageId>page-mp15m9d2-7v7z5jb65</odePageId>
           <odeBlockId>block-1778251234970-gro486imu</odeBlockId>
           <odeIdeviceId>idevice-1778251234969-y4zd8teoc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1522,8 +1522,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig1-ouurwkzuj</odePageId>
-  <odeParentPageId>page-mozxxig1-v8roq0e2w</odeParentPageId>
+  <odePageId>page-mp15m9d2-6veugj8xy</odePageId>
+  <odeParentPageId>page-mp15m9d2-7v7z5jb65</odeParentPageId>
   <pageName>Paso 1: Grabamos el vídeo</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1558,7 +1558,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig1-ouurwkzuj</odePageId>
+      <odePageId>page-mp15m9d2-6veugj8xy</odePageId>
       <odeBlockId>block-1778251747840-j33q2mo5x</odeBlockId>
       <blockName>Descarga en instala en el pc CAPCUT</blockName>
       <iconName>roadmap</iconName>
@@ -1587,7 +1587,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig1-ouurwkzuj</odePageId>
+          <odePageId>page-mp15m9d2-6veugj8xy</odePageId>
           <odeBlockId>block-1778251747840-j33q2mo5x</odeBlockId>
           <odeIdeviceId>idevice-1778251747838-ffoh32zmw</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -1612,7 +1612,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mozxxig1-ouurwkzuj</odePageId>
+      <odePageId>page-mp15m9d2-6veugj8xy</odePageId>
       <odeBlockId>block-1778251793004-i7lvy5z7y</odeBlockId>
       <blockName>Paso 1: Grabamos el vídeo</blockName>
       <iconName>video</iconName>
@@ -1641,7 +1641,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig1-ouurwkzuj</odePageId>
+          <odePageId>page-mp15m9d2-6veugj8xy</odePageId>
           <odeBlockId>block-1778251793004-i7lvy5z7y</odeBlockId>
           <odeIdeviceId>idevice-1778251793002-zwlcij2yp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1672,8 +1672,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig1-87qvkxnxh</odePageId>
-  <odeParentPageId>page-mozxxig1-v8roq0e2w</odeParentPageId>
+  <odePageId>page-mp15m9d3-az73felmx</odePageId>
+  <odeParentPageId>page-mp15m9d2-7v7z5jb65</odeParentPageId>
   <pageName>Paso 2: Editamos con CapCut</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1708,7 +1708,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig1-87qvkxnxh</odePageId>
+      <odePageId>page-mp15m9d3-az73felmx</odePageId>
       <odeBlockId>block-1778251964320-ts6num402</odeBlockId>
       <blockName>Paso 2: Editamos con CapCut</blockName>
       <iconName>guide</iconName>
@@ -1737,7 +1737,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig1-87qvkxnxh</odePageId>
+          <odePageId>page-mp15m9d3-az73felmx</odePageId>
           <odeBlockId>block-1778251964320-ts6num402</odeBlockId>
           <odeIdeviceId>idevice-1778251964319-7hg2afe1y</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1771,8 +1771,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig1-8q9l4l3gg</odePageId>
-  <odeParentPageId>page-mozxxig1-v8roq0e2w</odeParentPageId>
+  <odePageId>page-mp15m9d3-32xhhanm1</odePageId>
+  <odeParentPageId>page-mp15m9d2-7v7z5jb65</odeParentPageId>
   <pageName>Actividad Final</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1807,7 +1807,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig1-8q9l4l3gg</odePageId>
+      <odePageId>page-mp15m9d3-32xhhanm1</odePageId>
       <odeBlockId>block-1778251588689-lbq8gfgm2</odeBlockId>
       <blockName>Análisis rítmico de tu vídeo</blockName>
       <iconName>reflection</iconName>
@@ -1836,7 +1836,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig1-8q9l4l3gg</odePageId>
+          <odePageId>page-mp15m9d3-32xhhanm1</odePageId>
           <odeBlockId>block-1778251588689-lbq8gfgm2</odeBlockId>
           <odeIdeviceId>idevice-1778251588687-qt5680vlj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1847,7 +1847,7 @@
 <p>📌 ¿Qué haríais diferente si lo grabáis otra vez?</p>
 <p>📌 Puntuación del 1 al 5 que le daríais a vuestro vídeo</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Subid al Padlet<br title="Somos Musicos" />Cuando el vídeo esté listo, súbelo al <a href="sesion-4aprende-a-grabar-y-editar-video-con-capcut.html" title="Somos Musicos">Padlet </a>del proyecto que os enseñará la maestra. Añade tu nombre y una frase sobre qué figuras aparecen en vuestro patrón.</p></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778251588687-qt5680vlj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Después de ver vuestro vídeo</strong>, responded estas preguntas en vuestro cuaderno:</p>\n<p>📌 ¿Qué figuras musicales habéis practicado en el patrón?</p>\n<p>📌 ¿Cuántos tiempos tiene el compás de vuestro patrón?</p>\n<p>📌 ¿Qué haríais diferente si lo grabáis otra vez?</p>\n<p>📌 Puntuación del 1 al 5 que le daríais a vuestro vídeo</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Subid al Padlet<br title=\"Somos Musicos\" />Cuando el vídeo esté listo, súbelo al <a href=\"exe-node:page-mozxxig1-v8roq0e2w\" title=\"Somos Musicos\">Padlet </a>del proyecto que os enseñará la maestra. Añade tu nombre y una frase sobre qué figuras aparecen en vuestro patrón.</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Subid al Padlet<br title=\"Somos Musicos\" />Cuando el vídeo esté listo, súbelo al <a href=\"exe-node:page-mozxxig1-v8roq0e2w\" title=\"Somos Musicos\">Padlet </a>del proyecto que os enseñará la maestra. Añade tu nombre y una frase sobre qué figuras aparecen en vuestro patrón.</p>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778251588687-qt5680vlj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Después de ver vuestro vídeo</strong>, responded estas preguntas en vuestro cuaderno:</p>\n<p>📌 ¿Qué figuras musicales habéis practicado en el patrón?</p>\n<p>📌 ¿Cuántos tiempos tiene el compás de vuestro patrón?</p>\n<p>📌 ¿Qué haríais diferente si lo grabáis otra vez?</p>\n<p>📌 Puntuación del 1 al 5 que le daríais a vuestro vídeo</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Subid al Padlet<br title=\"Somos Musicos\" />Cuando el vídeo esté listo, súbelo al <a href=\"exe-node:page-mp15m9d2-7v7z5jb65\" title=\"Somos Musicos\">Padlet </a>del proyecto que os enseñará la maestra. Añade tu nombre y una frase sobre qué figuras aparecen en vuestro patrón.</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Subid al Padlet<br title=\"Somos Musicos\" />Cuando el vídeo esté listo, súbelo al <a href=\"exe-node:page-mp15m9d2-7v7z5jb65\" title=\"Somos Musicos\">Padlet </a>del proyecto que os enseñará la maestra. Añade tu nombre y una frase sobre qué figuras aparecen en vuestro patrón.</p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1869,8 +1869,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig2-sre2eed46</odePageId>
-  <odeParentPageId>page-mozxxify-kgmcv30eq</odeParentPageId>
+  <odePageId>page-mp15m9d3-0izxbmoxx</odePageId>
+  <odeParentPageId>page-mp15m9cy-osmuon5su</odeParentPageId>
   <pageName>SESIÓN 5:Aprende a usar Audacity y graba la canción</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1905,7 +1905,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig2-sre2eed46</odePageId>
+      <odePageId>page-mp15m9d3-0izxbmoxx</odePageId>
       <odeBlockId>block-1778252073752-q3suex0ev</odeBlockId>
       <blockName>La canción y Audacity</blockName>
       <iconName>music</iconName>
@@ -1934,7 +1934,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig2-sre2eed46</odePageId>
+          <odePageId>page-mp15m9d3-0izxbmoxx</odePageId>
           <odeBlockId>block-1778252073752-q3suex0ev</odeBlockId>
           <odeIdeviceId>idevice-1778252073750-7qhf1xka8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1970,8 +1970,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig2-hx6mves2k</odePageId>
-  <odeParentPageId>page-mozxxig2-sre2eed46</odeParentPageId>
+  <odePageId>page-mp15m9d4-33lnig8gi</odePageId>
+  <odeParentPageId>page-mp15m9d3-0izxbmoxx</odeParentPageId>
   <pageName>Paso 1:Descargamos Audacity</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2006,7 +2006,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig2-hx6mves2k</odePageId>
+      <odePageId>page-mp15m9d4-33lnig8gi</odePageId>
       <odeBlockId>block-1778253760692-7s4w3c0f2</odeBlockId>
       <blockName>Paso a paso.</blockName>
       <iconName>activity</iconName>
@@ -2035,7 +2035,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig2-hx6mves2k</odePageId>
+          <odePageId>page-mp15m9d4-33lnig8gi</odePageId>
           <odeBlockId>block-1778253760692-7s4w3c0f2</odeBlockId>
           <odeIdeviceId>idevice-1778253760690-etm1ove9f</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2072,8 +2072,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig2-8ged1hsby</odePageId>
-  <odeParentPageId>page-mozxxig2-sre2eed46</odeParentPageId>
+  <odePageId>page-mp15m9d4-4mbgx8dwf</odePageId>
+  <odeParentPageId>page-mp15m9d3-0izxbmoxx</odeParentPageId>
   <pageName>Actividad</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2108,7 +2108,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig2-8ged1hsby</odePageId>
+      <odePageId>page-mp15m9d4-4mbgx8dwf</odePageId>
       <odeBlockId>block-1778254396572-jx5shi9ov</odeBlockId>
       <blockName>En tu libreta</blockName>
       <iconName>draw</iconName>
@@ -2137,7 +2137,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig2-8ged1hsby</odePageId>
+          <odePageId>page-mp15m9d4-4mbgx8dwf</odePageId>
           <odeBlockId>block-1778254396572-jx5shi9ov</odeBlockId>
           <odeIdeviceId>idevice-1778254396570-k9iw7v8t5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2170,8 +2170,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig2-ha2xgr6ty</odePageId>
-  <odeParentPageId>page-mozxxify-kgmcv30eq</odeParentPageId>
+  <odePageId>page-mp15m9d4-2iugzhqjb</odePageId>
+  <odeParentPageId>page-mp15m9cy-osmuon5su</odeParentPageId>
   <pageName>SESIÓN 6:Evaluación</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2208,8 +2208,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig3-gc11a359j</odePageId>
-  <odeParentPageId>page-mozxxig2-ha2xgr6ty</odeParentPageId>
+  <odePageId>page-mp15m9d5-n56pbj8e8</odePageId>
+  <odeParentPageId>page-mp15m9d4-2iugzhqjb</odeParentPageId>
   <pageName>¡Lo hemos conseguido! </pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2244,7 +2244,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig3-gc11a359j</odePageId>
+      <odePageId>page-mp15m9d5-n56pbj8e8</odePageId>
       <odeBlockId>block-1778254477688-frjzxmv1a</odeBlockId>
       <blockName>Repaso, autoevaluación y cierre del proyecto</blockName>
       <iconName>think</iconName>
@@ -2273,7 +2273,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig3-gc11a359j</odePageId>
+          <odePageId>page-mp15m9d5-n56pbj8e8</odePageId>
           <odeBlockId>block-1778254477688-frjzxmv1a</odeBlockId>
           <odeIdeviceId>idevice-1778254477686-mkpop8ujh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2310,8 +2310,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig3-ep525c44t</odePageId>
-  <odeParentPageId>page-mozxxig2-ha2xgr6ty</odeParentPageId>
+  <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
+  <odeParentPageId>page-mp15m9d4-2iugzhqjb</odeParentPageId>
   <pageName>Asi que ...</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2346,7 +2346,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig3-ep525c44t</odePageId>
+      <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
       <odeBlockId>block-1778255073469-4mwwj4zss</odeBlockId>
       <blockName>¿Qué has aprendido?</blockName>
       <iconName>think</iconName>
@@ -2375,7 +2375,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig3-ep525c44t</odePageId>
+          <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
           <odeBlockId>block-1778255073469-4mwwj4zss</odeBlockId>
           <odeIdeviceId>idevice-1778255073467-94nh7ctdl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2402,7 +2402,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mozxxig3-ep525c44t</odePageId>
+      <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
       <odeBlockId>block-1778255572480-u7p4opq16</odeBlockId>
       <blockName>Evaluación de la tarea</blockName>
       <iconName>present</iconName>
@@ -2431,7 +2431,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig3-ep525c44t</odePageId>
+          <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
           <odeBlockId>block-1778255572480-u7p4opq16</odeBlockId>
           <odeIdeviceId>idevice-1778255572479-06hhgqu45</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2459,7 +2459,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mozxxig3-ep525c44t</odePageId>
+      <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
       <odeBlockId>block-1778255885444-ol3x42ql1</odeBlockId>
       <blockName>Autoevaluación</blockName>
       <iconName>objectives</iconName>
@@ -2488,7 +2488,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig3-ep525c44t</odePageId>
+          <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
           <odeBlockId>block-1778255885444-ol3x42ql1</odeBlockId>
           <odeIdeviceId>idevice-1778255885443-e16kdgo89</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2527,7 +2527,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mozxxig3-ep525c44t</odePageId>
+      <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
       <odeBlockId>block-1778256055659-7hby8bjb5</odeBlockId>
       <blockName>Rúbrica</blockName>
       <iconName>objectives</iconName>
@@ -2556,7 +2556,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig3-ep525c44t</odePageId>
+          <odePageId>page-mp15m9d5-4uf6ueyzk</odePageId>
           <odeBlockId>block-1778256055659-7hby8bjb5</odeBlockId>
           <odeIdeviceId>idevice-1778256055658-kuc1xwagz</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -2583,7 +2583,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig3-q0arnud9s</odePageId>
+  <odePageId>page-mp15m9d6-v5c09cf2c</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Consultas y ayuda</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -2619,7 +2619,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig3-q0arnud9s</odePageId>
+      <odePageId>page-mp15m9d6-v5c09cf2c</odePageId>
       <odeBlockId>block-mou9sxgv-th2gio5j8</odeBlockId>
       <blockName>Contenidos de consulta</blockName>
       <iconName>info</iconName>
@@ -2648,7 +2648,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig3-q0arnud9s</odePageId>
+          <odePageId>page-mp15m9d6-v5c09cf2c</odePageId>
           <odeBlockId>block-mou9sxgv-th2gio5j8</odeBlockId>
           <odeIdeviceId>idevice-mou9sxgv-h9d2oxu98</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -2679,7 +2679,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mozxxig3-q0arnud9s</odePageId>
+      <odePageId>page-mp15m9d6-v5c09cf2c</odePageId>
       <odeBlockId>block-mou9sxgv-jchi3leus</odeBlockId>
       <blockName>Ayuda</blockName>
       <iconName>info</iconName>
@@ -2708,7 +2708,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig3-q0arnud9s</odePageId>
+          <odePageId>page-mp15m9d6-v5c09cf2c</odePageId>
           <odeBlockId>block-mou9sxgv-jchi3leus</odeBlockId>
           <odeIdeviceId>idevice-mou9sxgv-oq5d1fbgg</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -2766,8 +2766,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig3-uco32esl2</odePageId>
-  <odeParentPageId>page-mozxxig3-q0arnud9s</odeParentPageId>
+  <odePageId>page-mp15m9d6-g63lmmg10</odePageId>
+  <odeParentPageId>page-mp15m9d6-v5c09cf2c</odeParentPageId>
   <pageName>Guía Docente</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2802,7 +2802,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig3-uco32esl2</odePageId>
+      <odePageId>page-mp15m9d6-g63lmmg10</odePageId>
       <odeBlockId>block-1778267342131-1qb5kjz1v</odeBlockId>
       <blockName>Guía Docente</blockName>
       <iconName>roadmap</iconName>
@@ -2831,7 +2831,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig3-uco32esl2</odePageId>
+          <odePageId>page-mp15m9d6-g63lmmg10</odePageId>
           <odeBlockId>block-1778267342131-1qb5kjz1v</odeBlockId>
           <odeIdeviceId>idevice-1778267342129-3p5f3j4b5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2861,7 +2861,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mozxxig4-p1dziadsz</odePageId>
+  <odePageId>page-mp15m9d6-ghwrcywwd</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -2897,7 +2897,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mozxxig4-p1dziadsz</odePageId>
+      <odePageId>page-mp15m9d6-ghwrcywwd</odePageId>
       <odeBlockId>block-1778428055890-luozpyyq6</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -2926,7 +2926,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mozxxig4-p1dziadsz</odePageId>
+          <odePageId>page-mp15m9d6-ghwrcywwd</odePageId>
           <odeBlockId>block-1778428055890-luozpyyq6</odeBlockId>
           <odeIdeviceId>idevice-1778428055888-q7gnhrrgr</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -2954,6 +2954,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
